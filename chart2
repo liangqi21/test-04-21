@@ -56,7 +56,7 @@
 			series: [  //配置第2个图表的数据系列
 				{
 					name: '大数据', type: 'bar', stack: '总量',
-					data: [301, 334, 390, 330, 320], barWidth: 45,
+					data: [302, 334, 390, 330, 320], barWidth: 45,
 				},
 				{ name: 'Oracle', type: 'bar', stack: '总量', data: [101, 134, 90, 230, 210] },
 				{ name: '云计算', type: 'bar', stack: '总量', data: [191, 234, 290, 330, 310] },
