@@ -8,7 +8,7 @@
 
 <body>
 	<div id="main1" style="width: 800px; height:700px"></div>
-	<div id="main2" style="width: 800px; height:600px"></div>
+	<div id="main2" style="width: 800px; height:700px"></div>
 	<script type="text/javascript">
 		//基于准备好的dom，初始化ECharts图表
 		var myChart1 = echarts.init(document.getElementById("main1"));
